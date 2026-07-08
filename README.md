@@ -1,6 +1,6 @@
 # RE-Crackmes
 
-This repo is organized to make it easy to upload your reverse-engineering journey and each crackme write-up, including both original and patched files.
+This repo is organized to make it easy to upload my reverse-engineering journey and each crackme write-up, including both original and patched files.
 
 ## Suggested structure
 
